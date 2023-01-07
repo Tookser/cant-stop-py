@@ -1,6 +1,6 @@
 # cant-stop-py
 
-Simple "Can't stop" board game PyQT5 implementation.
+Simple "Can't stop" board game PyQT5 implementation. Python 3.8.16 (there are troubles with 3.10).
 
 Two player hotseat.
 
